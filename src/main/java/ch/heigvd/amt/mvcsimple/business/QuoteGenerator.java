@@ -12,6 +12,7 @@ public class QuoteGenerator {
         result.add(new Quote("Dr. Seuss", "Don't cry because it's over, smile because it happened."));
         result.add(new Quote("Oscar Wilde", "Be yourself; everyone else is already taken."));
         result.add(new Quote("Albert Einstein", "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."));
+        result.add(new Quote("Simon Sinek", "What's an idea if it remains an idea ? Try, fail, iterate, change the world !"));
         return result;
     }
 }
